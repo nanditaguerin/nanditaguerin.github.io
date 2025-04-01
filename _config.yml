@@ -4,22 +4,26 @@ doks:
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Data Vending Machine
+            text: Nandita Guerin
             image:
         nav:
-            - item_name: Home
-              item_url: /
-            - item_name: NIP-90
-              item_url: https://github.com/nostr-protocol/nips/blob/vending-machine/90.md
+            - item_name: Les cours
+              item_url: /cours
+            - item_name: Actualités
+              item_url: /actualites
+            - item_name: Expérience
+              item_url: /experience
+            - item_name: Contact
+              item_url: /contact
     footer:
         content:
             logo:
-                text: Data Vending Machine
+                text: Nandita Guerin
                 image:
-            copyright: MIT License
+            copyright: © Nandita Guerin
         social_list:
             - network_name: github
-              profile_url: "https://github.com/pablof7z/data-vending-machines.org"
+              profile_url: https://github.com/nanditaguerin/nanditaguerin.github.io
 
 # SASS settings
 sass:
