@@ -21,18 +21,18 @@ buttons:
 grid_navigation:
     - title: Les cours
       excerpt: Read about DVMs
-      cta: Read more
-      url: intro
+      cta: Apprendre
+      url: /cours
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
-      url: /nip89
+      url: /actualites
       cta: Read more
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
-      url: https://github.com/nostr-protocol/nips/blob/vending-machine/90.md
-      cta: Read more
+      url: /experience
+      cta: Bio
     - title: Contact
-      excerpt: "Jobs where the input or output is text"
+      excerpt: Pour en savoir plus
       cta: Mesage
-      url: 'ranges/50xx'
+      url: /contact
 ---
