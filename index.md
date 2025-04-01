@@ -22,10 +22,10 @@ grid_navigation:
     - title: Les cours
       excerpt: Read about DVMs
       cta: Apprendre
-      url: /cours
+      url: into
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
-      url: /actualites
+      url: nip89
       cta: Read more
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
@@ -34,5 +34,5 @@ grid_navigation:
     - title: Contact
       excerpt: Pour en savoir plus
       cta: Mesage
-      url: /contact
+      url: ranges/50xx
 ---
