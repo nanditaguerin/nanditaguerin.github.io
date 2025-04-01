@@ -9,7 +9,7 @@ description: This website provides specs of the different NIP-90 Data Vending Ma
 buttons:
     - icon: arrow-right
       content: Découvrir
-      url: /cours
+      url: intro
       external_url: false
     - icon: github
       content: Geek
@@ -22,7 +22,7 @@ grid_navigation:
     - title: Les cours
       excerpt: Read about DVMs
       cta: Apprendre
-      url: into
+      url: intro
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
       url: nip89
