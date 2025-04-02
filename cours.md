@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Cours
-description: Cette page présente mon offre de cours et formations en Anglais langue étrangère
+description: Cette page présente mon offre de cours et de formations en Anglais langue étrangère
 
 # Micro navigation
 micro_nav: true
