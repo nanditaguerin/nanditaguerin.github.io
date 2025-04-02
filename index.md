@@ -26,8 +26,8 @@ grid_navigation:
       excerpt: The NIP that describes Data Vending Machines
       cta: Bio
       url: bio
-    - title: Contact
-      excerpt: Pour en savoir plus
-      cta: Mesage
+    - title: En savoir plus
+      excerpt: Une question ? Besoin d'un avis ? Envoyez-moi un message !
+      cta: Contact
       url: contact
 ---
