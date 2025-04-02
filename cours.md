@@ -18,7 +18,7 @@ page_nav:
         url: /
     next:
         content: Mon expérience
-        url: experience
+        url: bio
 ---
 
 ## Petite enfance (2-3 ans)
