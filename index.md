@@ -9,30 +9,25 @@ description: This website provides specs of the different NIP-90 Data Vending Ma
 buttons:
     - icon: arrow-right
       content: Découvrir
-      url: intro
+      url: cours
       external_url: false
-    - icon: github
-      content: Geek
-      url: https://github.com/nanditaguerin/nanditaguerin.github.io
-      external_url: true
-
 
 # Grid navigation
 grid_navigation:
     - title: Les cours
       excerpt: Read about DVMs
       cta: Apprendre
-      url: intro
+      url: cours
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
-      url: nip89
-      cta: Read more
+      url: actualités
+      cta: En ce moment
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
-      url: /experience
       cta: Bio
+      url: bio
     - title: Contact
       excerpt: Pour en savoir plus
       cta: Mesage
-      url: ranges/50xx
+      url: contact
 ---
