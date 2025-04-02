@@ -8,13 +8,6 @@ comments: false
 title: Les cours
 description: Cette page présente mon offre de cours et formations en Anglais langue étrangère
 
-# Author box
-author:
-    title: About Author
-    title_url: bio
-    external_url: true
-    description: Author description ADU
-
 # Micro navigation
 micro_nav: true
 
@@ -31,10 +24,10 @@ page_nav:
 ## Petite enfance (2-3 ans)
 ADU
 
-## Enfants
+## Enfants (4-12 ans)
 ADU
 
-## Adolescents
+## Adolescents (12-18 ans)
 ADU
 
 ## Adultes et personnes en recherche d'emploi
