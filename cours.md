@@ -17,7 +17,7 @@ page_nav:
         content: Accueil
         url: /
     next:
-        content: Mon epérience
+        content: Mon expérience
         url: experience
 ---
 
