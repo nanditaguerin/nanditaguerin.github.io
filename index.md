@@ -20,7 +20,7 @@ grid_navigation:
       url: cours
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
-      url: actualités
+      url: actualites
       cta: En ce moment
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
