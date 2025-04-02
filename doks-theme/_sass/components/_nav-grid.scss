@@ -21,7 +21,7 @@
 	display: block;
 	background-color: $color-theme-blue;
 	border: 1px solid rgba($color-dark-blue, .2);
-	border-radius: 2px;
+	border-radius: 10px;
 	margin-bottom: .9375rem;
 	transition: background-color .2s, border .2s;
 
@@ -71,7 +71,7 @@
 /* ----- Read more ----- */
 .nav-grid__btn {
 	font-family: $font-family-secondary;
-	font-weight: 500;
+	/*font-weight: 500;*/
 	/*text-transform: uppercase;*/
 	border-top: 1px solid rgba($color-dark-blue, .2);
 	padding: 1.25rem 1.875rem 0 1.875rem;
