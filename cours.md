@@ -5,7 +5,7 @@ keywords: Cours, Anglais, English, Courses, Professeure, Teacher
 comments: false
 
 # Hero section
-title: Les cours
+title: Cours
 description: Cette page présente mon offre de cours et formations en Anglais langue étrangère
 
 # Micro navigation
