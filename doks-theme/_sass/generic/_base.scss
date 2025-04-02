@@ -4,14 +4,14 @@
 
 /* ----- General ----- */
 html {
-	font-size: 18px;
+	font-size: 16px;
 	@include box-sizing(border-box);
 	-webkit-tap-highlight-color: transparent;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 
 	@media (min-width: $screen-sm-min) {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 
