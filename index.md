@@ -16,6 +16,7 @@ buttons:
 grid_navigation:
     - title: Les cours
       excerpt: Read about DVMs
+      image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclic-campus.fr%2Fwp-content%2Fuploads%2F2023%2F05%2Fastuces_reussir_presentation_orale_anglais-e1683091754707.jpg&f=1&nofb=1&ipt=d3e6fcbab6bba4705e5f27585178bd121071530e573b229e997bedbbf1d003ac&ipo=images
       cta: Apprendre
       url: cours
     - title: Actualités
