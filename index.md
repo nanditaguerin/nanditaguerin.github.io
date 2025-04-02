@@ -18,12 +18,10 @@ grid_navigation:
       excerpt: Read about DVMS
       cta: Apprendre
       url: cours
-      icon: github
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
       url: actualités
       cta: En ce moment
-      icon: home
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
       cta: Bio
