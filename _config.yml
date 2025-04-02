@@ -8,13 +8,13 @@ doks:
             image:
         nav:
             - item_name: Cours
-              item_url: cours
+              item_url: /cours
             - item_name: Actualités
-              item_url: actualites
+              item_url: /actualites
             - item_name: Bio
-              item_url: bio
+              item_url: /bio
             - item_name: Contact
-              item_url: contact
+              item_url: /contact
     footer:
         content:
             logo:
