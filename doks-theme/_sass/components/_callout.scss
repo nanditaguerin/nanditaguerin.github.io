@@ -5,6 +5,7 @@
 /* ----- General ----- */
 .callout {
 	border: 2px solid darken($color-callout, 4%);
+	border-radius: 2px;
 	background-color: $color-callout;
 	padding: .9375rem 1.25rem .625rem 1.25rem;
 	margin: 0 0 1.25rem 0;
@@ -14,7 +15,7 @@
 	}
 
 	p {
-		font-size: .9375em;
+		font-size: 1em;
 		line-height: 1.8em;
 		margin-bottom: .625rem;
 	}
