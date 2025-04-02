@@ -20,7 +20,7 @@ body {
 	font-family: $font-family-primary;
 	font-size: $font-size-base;
 	line-height: $line-height-base;
-	border-radius: 1em;
+	/*border-radius: 1em;*/
 }
 
 /* ----- Everything ----- */
@@ -91,6 +91,7 @@ small,
 /* ----- Paragraphs ----- */
 p {
 	margin: 0 0 1.25rem 0;
+	font-size: 2em;
 }
 
 /* ----- Hyperlinks ----- */
@@ -107,7 +108,7 @@ img {
 	max-width: 100%;
 	height: auto;
 	vertical-align: top;
-	border-radius: 0.2em;
+	border-radius: 0.5em;
 }
 
 /* ----- Horizontal rules ----- */
