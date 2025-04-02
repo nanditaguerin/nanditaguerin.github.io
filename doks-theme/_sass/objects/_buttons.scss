@@ -35,7 +35,7 @@
 	&:focus,
 	&:active {
 		color: $color-dark-blue;
-		background-color: $color-yellow;
+		background-color: ligthen ($color-dark-blue, 80%);
 	}
 }
 
