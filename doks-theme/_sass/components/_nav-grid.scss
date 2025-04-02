@@ -4,7 +4,7 @@
 
 /* ----- General ----- */
 .nav-grid {
-	font-size: .9375em;
+	font-size: 1em;
 	line-height: 1.8em;
 	color: $color-dark-blue;
 }
@@ -21,6 +21,7 @@
 	display: block;
 	background-color: $color-theme-blue;
 	border: 2px solid rgba($color-dark-blue, .2);
+	border-radius: 2px;
 	margin-bottom: .9375rem;
 	transition: background-color .2s, border .2s;
 
