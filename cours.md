@@ -11,7 +11,7 @@ description: Cette page présente mon offre de cours et formations en Anglais la
 # Author box
 author:
     title: About Author
-    title_url: /bio
+    title_url: bio
     external_url: true
     description: Author description ADU
 
@@ -25,7 +25,7 @@ page_nav:
         url: /
     next:
         content: Mon epérience
-        url: /experience
+        url: experience
 ---
 
 ## Petite enfance (2-3 ans)
