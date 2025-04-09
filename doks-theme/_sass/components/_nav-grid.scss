@@ -35,7 +35,7 @@
 		border-color: $color-dark-blue;
 
 		.nav-grid__btn {
-			border-color: darken($color-dark-blue 3%);
+			border-color: $color-dark-blue;
 
 			.icon {
 				@include translate(.625rem, 0);
