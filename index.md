@@ -16,18 +16,14 @@ buttons:
 grid_navigation:
     - title: Les cours
       excerpt: Read about DVMS
-      #cta: Apprendre
       url: cours
     - title: Actualités
       excerpt: The important role of NIP-89 in DVMs
       url: actualites
-      #cta: En ce moment
     - title: Mon expérience
       excerpt: The NIP that describes Data Vending Machines
-      #cta: Bio
       url: bio
     - title: En savoir plus
       excerpt: Une question ? Besoin d'un avis ? Envoyez-moi un message !
-      #cta: Contact
       url: contact
 ---
