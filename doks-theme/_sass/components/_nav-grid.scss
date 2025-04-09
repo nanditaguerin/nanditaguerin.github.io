@@ -63,7 +63,7 @@
 /* ----- Title ----- */
 .nav-grid__title {
 	display: block;
-	font-size: $font-size-h3;
+	font-style: bold;
 	font-weight: 500;
 	padding: 0;
 	margin-top: 0;
@@ -71,7 +71,8 @@
 }
 
 /* ----- Read more ----- */
-/*.nav-grid__btn {
+/*
+.nav-grid__btn {
 	font-family: $font-family-secondary;
 	font-weight: 500;
 	/*text-transform: uppercase;*/
@@ -91,4 +92,5 @@
 		bottom: -.125rem;
 		transition: transform .2s;
 	}
-}*/
+}
+*/
